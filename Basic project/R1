@@ -1,1 +1,11 @@
+This is my 1st Basic Project : 
+
+Run : npm install
+      npm run dev
+
+Build : npm run build
+        or,npx vite build
+
+preview : npm run preview
+
 
